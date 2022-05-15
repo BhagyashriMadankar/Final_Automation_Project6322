@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-15T20:09:16 IST" name="Default suite" finished-at="2022-05-15T20:11:42 IST" duration-ms="146340">
+    <groups>
+    </groups>
+    <test started-at="2022-05-15T20:09:16 IST" name="Default test" finished-at="2022-05-15T20:11:42 IST" duration-ms="146340">
+      <class name="justherbs.Harbal_MouseHover">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:justherbs.Harbal_MouseHover@3527942a]" started-at="2022-05-15T20:09:16 IST" name="beforeTest" finished-at="2022-05-15T20:09:28 IST" duration-ms="12166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Module()[pri:0, instance:justherbs.Harbal_MouseHover@3527942a]" started-at="2022-05-15T20:09:28 IST" name="Module" finished-at="2022-05-15T20:11:42 IST" duration-ms="134080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Module -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:justherbs.Harbal_MouseHover@3527942a]" started-at="2022-05-15T20:11:42 IST" name="afterTest" finished-at="2022-05-15T20:11:42 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- justherbs.Harbal_MouseHover -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
